@@ -1,37 +1,81 @@
-# Beitrag zu GanjOS Grow Automation
+# 🙌 Mitwirkungsrichtlinie / Contribution Guidelines
 
-Vielen Dank, dass du GanjOS Grow Automation unterstützen möchtest! Wir freuen uns über Beiträge in jeder Form. Dieser Leitfaden soll dir helfen, deine Beiträge effektiv einzubringen.
+**Sprache / Language:**  
+🇩🇪 [Zur deutschen Version springen](#mitwirkungsrichtlinie-deutsch)  
+🇬🇧 [Jump to English version](#contribution-guidelines-english)
 
-## Wie du beitragen kannst
+---
 
-### Fehlermeldungen und Feature Requests
+## 🇩🇪 Mitwirkungsrichtlinie (Deutsch) {#mitwirkungsrichtlinie-deutsch}
 
-1. **Fehlermeldungen**: Wenn du einen Fehler gefunden hast, eröffne bitte ein [GitHub Issue](https://github.com/Ganjos-Grow-Automation/gb_HomeAssistant/issues). Gib eine detaillierte Beschreibung des Problems an, einschließlich der Schritte, um den Fehler zu reproduzieren, und, wenn möglich, Screenshots.
-2. **Feature Requests**: Wenn du eine neue Funktion vorschlagen möchtest, eröffne ebenfalls ein [GitHub Issue](https://github.com/Ganjos-Grow-Automation/gb_HomeAssistant/issues) und beschreibe die gewünschte Funktion und ihren Nutzen für die Community.
+### Beitrag zu GanjOS Grow Automation
 
-### Code Beiträge
+Vielen Dank, dass du GanjOS unterstützen möchtest! Wir freuen uns über Beiträge in jeder Form. Dieser Leitfaden hilft dir, dich effektiv einzubringen.
 
-1. **Fork das Repository**: Erstelle eine Kopie des Hauptrepositories in deinem eigenen GitHub-Konto.
-2. **Erstelle einen neuen Branch**: Arbeite in einem separaten Branch, um deine Änderungen sauber und organisiert zu halten (`git checkout -b feature-name` oder `git checkout -b bugfix-name`).
-3. **Implementiere deine Änderungen**: Stelle sicher, dass dein Code gut dokumentiert und getestet ist.
-4. **Führe Tests durch**: Stelle sicher, dass alle bestehenden und neuen Tests erfolgreich sind (`npm test` oder der entsprechende Befehl für dein Projekt).
-5. **Erstelle einen Pull Request**: Sobald du bereit bist, deine Änderungen einzureichen, öffne einen Pull Request gegen den `main` Branch des Hauptrepositories. Beschreibe detailliert, was du geändert hast und warum.
+#### 🔧 Wie du beitragen kannst
 
-### Dokumentation
+##### 1. Fehlermeldungen & Feature Requests
+- **Fehler melden:** Erstelle ein [GitHub Issue](https://github.com/Ganjos-Grow-Automation/GanjOS_Grow_Automation/issues) mit klarer Fehlerbeschreibung, Reproduktionsschritten und ggf. Screenshots.
+- **Feature vorschlagen:** Beschreibe den Mehrwert und Zweck der gewünschten Funktion im gleichen Issue-Tracker.
 
-Gute Dokumentation ist essenziell für das Verständnis und die Nutzung des Projekts. Du kannst auf folgende Weise zur Dokumentation beitragen:
+##### 2. Code-Beiträge
+1. Forke das Repository in deinem GitHub-Konto  
+2. Erstelle einen Branch (`git checkout -b feature-name`)  
+3. Implementiere deine Änderungen mit guter Dokumentation  
+4. Teste deinen Code gründlich  
+5. Erstelle einen Pull Request gegen `main` mit klarer Beschreibung
 
-1. **Verbesserung der bestehenden Dokumentation**: Wenn du Fehler oder Verbesserungspotential in der Dokumentation findest, melde dies oder verbessere es direkt durch einen Pull Request.
-2. **Neue Anleitungen und Tutorials**: Erstelle neue Tutorials oder Anleitungen, die anderen helfen, das Projekt zu nutzen oder zu erweitern.
+##### 3. Dokumentation
+- **Verbessern:** Korrigiere oder erweitere bestehende Inhalte per PR.
+- **Neu erstellen:** Tutorials, How-Tos oder Setup-Guides sind sehr willkommen.
 
-## Code of Conduct
+#### 📜 Code of Conduct
 
-Bitte beachte unseren [Code of Conduct](./CODE_OF_CONDUCT.md), um eine respektvolle und einladende Atmosphäre für alle Mitglieder der Community zu gewährleisten.
+Bitte beachte unseren [Verhaltenskodex](./CODE_OF_CONDUCT.md), um einen respektvollen Umgang in der Community sicherzustellen.
 
-## Kontakt
+#### 📬 Kontakt
 
-Für Fragen oder Hilfe kannst du uns über die [GitHub Discussions](https://github.com/orgs/Ganjos-Grow-Automation/discussions), über die [GitHub Issues](https://github.com/Ganjos-Grow-Automation/gb_HomeAssistant/issues) oder unserem Community-Forum auf [Discord](https://discord.gg/neJdSvxnPf) erreichen.
+- [GitHub Discussions](https://github.com/orgs/Ganjos-Grow-Automation/discussions)
+- [GitHub Issues](https://github.com/Ganjos-Grow-Automation/GanjOS_Grow_Automation/issues)
+- [Discord-Community](https://discord.gg/neJdSvxnPf)
 
-Wir freuen uns auf deine Beiträge!
+Wir freuen uns auf deinen Beitrag!  
+— Dein GanjOS Grow Automation Team
 
-Das GanjOS Grow Automation Team
+---
+
+## 🇬🇧 Contribution Guidelines (English) {#contribution-guidelines-english}
+
+### Contributing to GanjOS Grow Automation
+
+Thank you for your interest in contributing to GanjOS! We welcome contributions of all kinds. This guide helps you contribute effectively.
+
+#### 🔧 How to contribute
+
+##### 1. Report issues & request features
+- **Report bugs:** Open a [GitHub Issue](https://github.com/Ganjos-Grow-Automation/GanjOS_Grow_Automation/issues) with steps to reproduce, a clear description, and screenshots if possible.
+- **Suggest features:** Use the same issue tracker to describe the feature and its benefit to the community.
+
+##### 2. Contribute code
+1. Fork the repository to your GitHub account  
+2. Create a feature branch (`git checkout -b feature-name`)  
+3. Implement your changes with documentation  
+4. Run and pass all tests  
+5. Open a Pull Request to `main` with a clear explanation
+
+##### 3. Contribute documentation
+- **Improve existing content:** Fix or enhance docs via pull request.
+- **Add new content:** Tutorials, how-tos, and setup guides are highly appreciated.
+
+#### 📜 Code of Conduct
+
+Please follow our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a respectful and inclusive community.
+
+#### 📬 Contact
+
+- [GitHub Discussions](https://github.com/orgs/Ganjos-Grow-Automation/discussions)
+- [GitHub Issues](https://github.com/Ganjos-Grow-Automation/GanjOS_Grow_Automation/issues)
+- [Discord Community](https://discord.gg/neJdSvxnPf)
+
+We look forward to your contribution!  
+— The GanjOS Grow Automation Team

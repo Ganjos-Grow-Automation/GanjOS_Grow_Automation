@@ -1,5 +1,0 @@
-name: "GanjOS Grow Automation"
-latitude: !secret latitude
-longitude: !secret longitude
-unit_system: metric
-time_zone: "Europe/Berlin"
